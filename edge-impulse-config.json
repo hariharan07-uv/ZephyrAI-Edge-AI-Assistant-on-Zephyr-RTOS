@@ -1,0 +1,17 @@
+{
+    "host": "edgeimpulse.com",
+    "jwtToken": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjUwNDQxNiwicGVybWlzc2lvbnMiOltdLCJpYXQiOjE3Nzc3NDQ0MjQsImV4cCI6MTc4MDMzNjQyNH0.NEWayFGt9PzXw55IJ6nioAdPUyw02Kl2q0jW8-BQyF4",
+    "lastVersionCheck": 1777744400560,
+    "dataForwarderDevices": {},
+    "daemonDevices": {
+        "5B5E053481": {
+            "projectId": 982270
+        }
+    },
+    "runner": {
+        "storagePath": "/root/.ei-linux-runner/storage"
+    },
+    "apiKeysForProject": {
+        "982270": "ei_3b9cb123801eb0aad4c588f67139bca4a99dd26498ac73fe"
+    }
+}
